@@ -24,7 +24,7 @@ nav {
   display: grid;
   grid-template-columns: 1fr repeat(2, 250px) 1fr;
 
-  background-image: url("/images/Background3.jfif");
+  background-image: url("images/Background3.jfif");
   background-size: contain;
 
   grid-template-rows: 140px;
