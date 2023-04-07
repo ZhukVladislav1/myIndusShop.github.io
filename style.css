@@ -11,7 +11,7 @@ a {
   display: grid;
   grid-template-columns: 1fr repeat(2, 250px) 1fr;
 
-  background-image: url("/images/Background2.jpg");
+  background-image: url("images/Background2.jpg");
   background-size: cover;
 
   grid-template-rows: 140px;
