@@ -20,6 +20,11 @@ nav {
   height: 100%;
 }
 
+#logo:hover {
+  animation: flip;
+  animation-duration: 2s;
+}
+
 .welcome {
   display: grid;
   grid-template-columns: 1fr repeat(2, 250px) 1fr;
