@@ -23,6 +23,7 @@ nav {
 #logo:hover {
   animation: flip;
   animation-duration: 2s;
+}
 
 .welcome {
   display: grid;
